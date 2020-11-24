@@ -21,4 +21,4 @@ end
 #input array of words
 #iterate over each element(word) in the array
 #split each word into individual letter array and compare
-#if true -> save into output array
+#if true -> save into output array (select method)
